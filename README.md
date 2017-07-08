@@ -30,3 +30,4 @@ $ ionic cordova run ios
 
 Substitute ios for android if not on a Mac.
 
+(1) <img src="http://i.imgur.com/J4rRsGJ.png" width="180" height="300" /> (2) <img src="http://i.imgur.com/mgIYA3g.png" width="180" height="300" /> (3) <img src="http://i.imgur.com/yR8PSjx.png" width="180" height="300" /> (4) <img src="http://i.imgur.com/dCvVroq.png" width="180" height="300" />
